@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background: #f9f9f9;
+}
+.navbar {
+    background: #007bff;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+.container {
+    padding: 20px;
+}
+.cards {
+    display: flex;
+    gap: 20px;
+}
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px #ccc;
+    width: 200px;
+}
